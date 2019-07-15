@@ -1,0 +1,10 @@
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\bin\Debug\assing.exe.config
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\bin\Debug\assing.exe
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\bin\Debug\assing.pdb
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\bin\Debug\assing.xml
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.Form1.resources
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.Resources.resources
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\TF.vbproj.GenerateResource.Cache
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.exe
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.xml
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.pdb

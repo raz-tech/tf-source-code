@@ -1,0 +1,30 @@
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\bin\Debug\assing.exe.config
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\bin\Debug\assing.exe
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\bin\Debug\assing.pdb
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\bin\Debug\assing.xml
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\obj\Debug\assing.Form1.resources
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\obj\Debug\assing.Resources.resources
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\obj\Debug\assing.vbproj.GenerateResource.Cache
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\obj\Debug\assing.exe
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\obj\Debug\assing.xml
+c:\users\abdurrahim\documents\visual studio 2013\Projects\assing\assing\obj\Debug\assing.pdb
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\bin\Debug\assing.exe.config
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\obj\Debug\assing.exe
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\obj\Debug\assing.xml
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\obj\Debug\assing.pdb
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\bin\Debug\assing.exe
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\bin\Debug\assing.pdb
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\bin\Debug\assing.xml
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\obj\Debug\assing.Form1.resources
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\obj\Debug\assing.Resources.resources
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\assing\obj\Debug\assing.vbproj.GenerateResource.Cache
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\bin\Debug\assing.exe.config
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.exe
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.xml
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.pdb
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\bin\Debug\assing.exe
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\bin\Debug\assing.pdb
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\bin\Debug\assing.xml
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.Form1.resources
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.Resources.resources
+C:\Users\Abdurrahim\Documents\Visual Studio 2013\Projects\TF PROGECT FORM\TF\obj\Debug\assing.vbproj.GenerateResource.Cache
